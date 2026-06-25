@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897281740576",
+    "project_id": "skillrise-7852c",
+    "storage_bucket": "skillrise-7852c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897281740576:android:6d75bd1668bc0f0f8f1145",
+        "android_client_info": {
+          "package_name": "com.example.assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGSBQURTgmtz4CEwlhLKyY50VGwU8iz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
